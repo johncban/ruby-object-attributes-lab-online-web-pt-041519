@@ -12,4 +12,4 @@ end
 
 
 fido = Dog.new("Fido")
-f = fido.name
+fido.name
