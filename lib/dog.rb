@@ -12,4 +12,4 @@ end
 
 
 fido = Dog.new("Fido")
-puts "#{fido.name}"
+fido.name
